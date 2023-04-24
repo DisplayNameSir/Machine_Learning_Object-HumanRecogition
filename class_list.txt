@@ -1,0 +1,7 @@
+closed_door
+opened_door
+bus
+number
+Bottle
+Peter Nguyen
+Flash Drive
